@@ -1,0 +1,6 @@
+[
+  {"name": "playwright", "id": 1},
+  {"name": "pytest", "id": 2},
+  {"name": "qa", "id": 3},
+  {"name": "python", "id": 4}
+]
