@@ -1,0 +1,4 @@
+>> GET https://httpbin.org/forms/post
+<< 200 https://httpbin.org/forms/post
+>> POST https://httpbin.org/post
+<< 200 https://httpbin.org/post

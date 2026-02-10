@@ -1,0 +1,2 @@
+<playwright._impl._sync_base.EventInfo object at 0x0000019BA4942210> дональвд инфо
+<Download url='https://the-internet.herokuapp.com/download/some-file.txt' suggested_filename='some-file.txt'> Просто дональвд
