@@ -30,3 +30,5 @@ def test_login_success(login_page, dashboard_page, username, password):
         login_page.login(username, password)
     with allure.step('Отображается приветственное сообщение с именем пользователя'):
         dashboard_page.assert_welcome_message(f"Welcome {username}")
+
+""
